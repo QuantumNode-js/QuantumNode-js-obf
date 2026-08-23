@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+.DS_Store
+examples/obfuscated_samples/*.lua
+!examples/obfuscated_samples/.gitkeep
+output/
+*.log

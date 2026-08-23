@@ -1,0 +1,7 @@
+lzma==0.5.4
+cryptography==41.0.0
+pycryptodomex==3.18.0
+click==8.1.7
+colorama==0.4.6
+full-moon==0.15.0
+pygments==2.16.1
